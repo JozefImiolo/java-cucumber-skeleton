@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/JozefImiolo/java-cucumber-skeleton.svg?branch=master)](https://travis-ci.org/JozefImiolo/java-cucumber-skeleton)
+[![codecov](https://codecov.io/gh/JozefImiolo/java-cucumber-skeleton/branch/master/graph/badge.svg)](https://codecov.io/gh/JozefImiolo/java-cucumber-skeleton)
