@@ -1,4 +1,5 @@
 apply plugin: 'java'
+applt plugin: 'jacoco'
 
 project.ext {
     cucumberVersion = '2.4.0'
