@@ -13,7 +13,12 @@ dependencies {
     testCompile 'io.cucumber:pro-plugin:' + cucumberProVersion
     testCompile 'junit:junit:' + junitVersion
 }
-
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        html.enabled false
+    }
+}
 repositories {
     mavenCentral()
 }
