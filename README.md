@@ -1,0 +1,1 @@
+https://travis-ci.org/JozefImiolo/java-cucumber-skeleton.svg?branch=master
