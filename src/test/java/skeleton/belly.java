@@ -8,6 +8,7 @@ public class belly {
 
     @Test
     public void eat() {
+        Belly b = new Belly();
         assertTrue(true);
     }
     @Test
