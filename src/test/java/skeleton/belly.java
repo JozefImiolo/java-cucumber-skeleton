@@ -10,4 +10,10 @@ public class belly {
     public void eat() {
         assertTrue(true);
     }
+    @Test
+    public  void dodaj() {
+        Belly b = new Belly();
+        assertEquals(10, b.dodaj(5));
+    }
+
 }
