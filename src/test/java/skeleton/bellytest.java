@@ -2,13 +2,15 @@ package skeleton;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
-public class belly {
+public class bellytest {
 
     @Test
     public void eat() {
-        Belly b = new Belly();
+        Belly b;
+        b = new Belly();
         assertTrue(true);
     }
     @Test
